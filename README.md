@@ -1,11 +1,6 @@
 # Trends-In-Obesity-NSS-Capstone-Project
 
-## Central Questions this Project Addresses:
-<ul>
-  <li>Coffee</li>
-  <li type="square">Tea</li>
-  <li>Milk</li>
-</ul>
+## Central Questions this Project Addresses: <br>
 ### Visualization of obesity rates overtime, including <br>
 <ul>
   <li> Where has obesity been increasing or decreasing? <br>
