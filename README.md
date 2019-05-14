@@ -1,6 +1,6 @@
 # Trends-In-Obesity-NSS-Capstone-Project
 
-## Central Questions this Project Objectivess: <br>
+## Central Project Objectives: <br>
 ### 1. Visualization of obesity rates overtime, including <br>
 <ul>
   <li> Where has obesity been increasing or decreasing? <br>
@@ -12,15 +12,14 @@
 <ul>
   <li> Counts of total pieces of legislation passed by legislative topic in each state <br>
   <li> Correlations between number of laws passed by topic and overall state's obesity rate <br>
-  <li> What socio-economic factors are correlated with higher obesity rates? <br>
   </ul>
   
-### 3. Machine learning component
-  o	Use different socio-economic and lifestyle variables and habits as predictors for obesity rates on a county level in 2013
-  o	Some predictor variables include:
-  	  
-  	  p 
-  	  Race
-  	  Gender 
-  	  Density of fast food restaurants 
-  	  Etc.
+### 3. Machine learning component. Use different socio-economic and health-related information as predictors for obesity rates on a county level in 2013. Some predictor variables include:
+<ul>
+  <li> Racial group <br>
+  <li> Age Group <br>
+  <li> Density of fast food restraunts <br>
+  <li> Density of grocery stores <br>
+  <li> Relative price of unhelathy consumer items like soda <br>
+</ul>
+  
