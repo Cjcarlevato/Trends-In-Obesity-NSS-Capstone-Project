@@ -1,7 +1,7 @@
 # Trends-In-Obesity-NSS-Capstone-Project
 
 ## Central Questions this Project Addresses:
-•	Visualization of obesity rates overtime
+•	Visualization of obesity rates overtime <br>
 o	  Where has obesity been increasing or decreasing?
 o	  Which states experience the highest obesity rates
 o	  What socio-economic factors are correlated with higher obesity rates?
