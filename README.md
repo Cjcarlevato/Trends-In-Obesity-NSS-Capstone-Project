@@ -1,10 +1,17 @@
 # Trends-In-Obesity-NSS-Capstone-Project
 
 ## Central Questions this Project Addresses:
-•	Visualization of obesity rates overtime, including <br>
-<ul> Where has obesity been increasing or decreasing? <br>
-<ul> Which states experience the highest obesity rates <br>
-<ul> What socio-economic factors are correlated with higher obesity rates? <br>
+<ul>
+  <li>Coffee</li>
+  <li type="square">Tea</li>
+  <li>Milk</li>
+</ul>
+### Visualization of obesity rates overtime, including <br>
+<ul>
+  <li> Where has obesity been increasing or decreasing? <br>
+  <li> Which states experience the highest obesity rates <br>
+  <li> What socio-economic factors are correlated with higher obesity rates? <br>
+  </ul>
 
 •	Machine learning component
   o	Use different socio-economic and lifestyle variables and habits as predictors for obesity rates on a county level in 2013
