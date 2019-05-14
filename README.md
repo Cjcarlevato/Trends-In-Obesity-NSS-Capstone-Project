@@ -14,7 +14,7 @@
   <li> Correlations between number of laws passed by topic and overall state's obesity rate <br>
   </ul>
   
-### 3. Machine learning component. Use different socio-economic and health-related information as predictors for obesity rates on a county level in 2013. Some predictor variables include:
+### 3. Linear Regression machine learning component. Use different socio-economic and health-related information as predictors for obesity rates on a county level in 2013. Some predictor variables include:
 <ul>
   <li> Racial group <br>
   <li> Age Group <br>
